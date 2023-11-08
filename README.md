@@ -9,3 +9,4 @@
 ### SETUP & TESTING
 Clone/download this repository and run yarn install or npm install.
 After all the dependencies are downloaded, run yarn start or npm start to run the app.
+Play deployed game: [https://euphonious-sherbet-4d1c82.netlify.app/](https://euphonious-sherbet-4d1c82.netlify.app/)
